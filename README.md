@@ -1,5 +1,8 @@
 # hello-world
-Just another repository\n
-Just basic\n
-I'm not expert\n
+Just another repository
+
+Just basic
+
+I'm not expert
+
 Just practice
