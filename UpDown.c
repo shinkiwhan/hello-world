@@ -4,7 +4,6 @@
 int main(void){
   srand(time(NULL));
 	int num = rand() % 100 + 1;
-	printf("숫자 : %d\n", num);
 	int answer = 0;
 	int chance = 5;
 	while (chance > 0) {
